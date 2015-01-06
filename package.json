@@ -1,0 +1,22 @@
+{
+  "name": "scribblechampions-node",
+  "version": "1.0.0",
+  "description": "A drawing web application created using JQUERY and HTML5 that uses Node Express and heroku as a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "node.js",
+    "express",
+    "canvas",
+    "html5"
+  ],
+  "author": "Lorrayne Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.7"
+  }
+}
